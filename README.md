@@ -1,4 +1,4 @@
-<img src="http://logon1.shbp7.com/logo.jpg" width=500>
+<img src="http://logon1.shbp7.com/logo.jpg" width=200>
 
 掌心乐棋牌
 
