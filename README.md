@@ -2,5 +2,5 @@
 
 掌心乐棋牌
 
-技术支持邮箱：632251075@qq.com
+技术支持邮箱：82998425@qq.com
 技术支持网站：https://github.com/zxlqp/zxlqp/blob/master/README.md
